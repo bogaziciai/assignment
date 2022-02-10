@@ -65,6 +65,6 @@ git push
 
 <img src="/media/3-3-submit-assignment-add-reviewer.gif">
 
-Check reviews `ReviewNB` application.
+#### Check reviews `ReviewNB` application.
 
 <img src="/media/4-see-reviews.gif">
