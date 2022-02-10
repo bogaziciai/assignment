@@ -67,4 +67,7 @@ git push
 
 #### Check reviews `ReviewNB` application.
 
+Since we'll mostly use `Jupyter Notebooks`, we will add our
+comments on `ReviewNB`. You can find links to comments in your PR.
+
 <img src="/media/4-see-reviews.gif">
