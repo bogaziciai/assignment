@@ -16,6 +16,8 @@ main repository.
 
 After you install `Github Desktop`, clone repository using `Add`
 button there.
+
+
 <img src="/media/1-clone-repository.gif">
 
 If you are on command line:
@@ -29,6 +31,24 @@ Create a new branch for each submit, name your branch as
 for your task number and name. Brackets are the convention
 to indicate variable, don't use them in your branch.
 
+
 <img src="/media/2-create-branch.gif">
-<img src="/media/3-submit-assignment.gif">
+
+#### Submit your assignment
+
+Add `-{your_name}` to your solution files
+
+
+<img src="/media/3-1-submit-assignment-naming.gif">
+
+Commit, push to origin, and send a `Pull Request`.
+
+<img src="/media/3-2-submit-assignment-commit-push-pr.gif">
+
+Add us to reviewers @bkavlak & @isikz
+
+<img src="/media/3-3-submit-assignment-add-reviewer.gif">
+
+Check reviews `ReviewNB` application.
+
 <img src="/media/4-see-reviews.gif">
