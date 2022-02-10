@@ -1,4 +1,4 @@
-# Assignment Repository <a href='https://bogaziciai.com//'><img src='logo/bogaziciai-logo-sq.png' align="right" height="139" /></a>
+# Assignment Repository <a href='https://bogaziciai.com//'><img src='media/bogaziciai-logo-sq.png' align="right" height="139" /></a>
 
 This repository will be used to upload and manage assignments
 in our lectures.
@@ -18,7 +18,8 @@ After you install `Github Desktop`, clone repository using `Add`
 button there.
 <img src="/media/1-clone-repository.gif">
 
-If you are on command line,
+If you are on command line:
+
 `git clone https://github.com/bogaziciai/assignment.git`
 
 #### Create new branch
