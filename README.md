@@ -6,3 +6,6 @@ in our lectures.
 Each student will work on a branch for each assignment. The assignments
 will be commited under the folders named with students' name. After commiting
 assignment, a Pull-Request will be sent an a review will be asked.
+
+As the reviewers approve the PR, the assignments could be merged to the
+main repository.
