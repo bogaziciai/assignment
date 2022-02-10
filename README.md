@@ -48,6 +48,8 @@ git checkout -b task{number}-{your_name}
 <img src="/media/3-1-submit-assignment-naming.gif">
 
 2 - Commit, push to origin, and send a `Pull Request`.
+Try to be simple in your messages, you don't need to add any
+details at all.
 
 <img src="/media/3-2-submit-assignment-commit-push-pr.gif">
 
