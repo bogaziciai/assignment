@@ -34,18 +34,34 @@ to indicate variable, don't use them in your branch.
 
 <img src="/media/2-create-branch.gif">
 
+or
+
+```
+git checkout -b task{number}-{your_name}
+```
+
 #### Submit your assignment
 
-Add `-{your_name}` to your solution files
+1 - Add `-{your_name}` to your solution files
 
 
 <img src="/media/3-1-submit-assignment-naming.gif">
 
-Commit, push to origin, and send a `Pull Request`.
+2 - Commit, push to origin, and send a `Pull Request`.
 
 <img src="/media/3-2-submit-assignment-commit-push-pr.gif">
 
-Add us to reviewers @bkavlak & @isikz
+or
+
+```
+git checkout -b task{number}-{your_name}
+git add .
+git commit -m "{your message}"
+git push
+# go Desktop app or website to create PR o
+```
+
+3 - Add us to reviewers @bkavlak & @isikz
 
 <img src="/media/3-3-submit-assignment-add-reviewer.gif">
 
