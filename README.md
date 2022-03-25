@@ -42,10 +42,7 @@ git checkout -b task{number}-{your_name}
 
 #### Submit your assignment
 
-1 - Add `-{your_name}` to your solution files
-
-
-<img src="/media/3-1-submit-assignment-naming.gif">
+1 - Manipulate the file in your assignment without changing the name & add your solutions.
 
 2 - Commit, push to origin, and send a `Pull Request`.
 Try to be simple in your messages, you don't need to add any
